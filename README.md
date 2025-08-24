@@ -34,4 +34,4 @@ A diferencia de otras plataformas rígidas, Falcon GPS está construida para una
 [**Chatee con Nosotros en WhatsApp**](https://api.whatsapp.com/send/?phone=14155238886&text&type=phone_number&app_absent=0)
 
 ---
-También puede obtener más información sobre nuestra plataforma en nuestro sitio web: [**Visitar Falcon GPS**](v0-whats-app-car-loan-tracking.vercel.app)
+También puede obtener más información sobre nuestra plataforma en nuestro sitio web: [**Visitar Falcon GPS**](https://v0-whats-app-car-loan-tracking.vercel.app)
