@@ -27,8 +27,11 @@ While other companies offer rigid and complex systems, Falcon GPS provides an ac
 ## API Client
 The traccar_api.py file contains the TraccarAPI class, which is a Python client for interacting with the Traccar API. This class centralizes all the API logic, making it easy to fetch device data, manage positions, and send commands.
 
-## 🤝 Contact Us
-Ready to take control of your fleet and have peace of mind? Visit our platform to learn more about our plans and get started.
+## 🤝 Get Started
 
-[**Visit WhatsApp Solution**](https://api.whatsapp.com/send/?phone=14155238886&text&type=phone_number&app_absent=0)
-[**Visit Falcon GPS**](https://v0-whats-app-car-loan-tracking-b2xykcnr8-davidsmvs-projects.vercel.app/)
+Ready to take control of your fleet and have peace of mind? Start a conversation with our intelligent assistant on WhatsApp to get a demo and learn more about our plans.
+
+[**Chat with Us on WhatsApp**](https://api.whatsapp.com/send/?phone=14155238886&text&type=phone_number&app_absent=0)
+
+---
+You can also learn more about our platform on our website: [**Visit Falcon GPS**](https://v0-whats-app-car-loan-tracking-b2xykcnr8-davidsmvs-projects.vercel.app/)
