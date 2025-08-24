@@ -1,37 +1,37 @@
-# Falcon GPS - Tracking and Fleet Management via WhatsApp 🚗
+# Falcon GPS - Gestión de Flotas y Rastreo Inteligente con WhatsApp
 
-## What is Falcon GPS?
+## ¿Qué es Falcon GPS?
 
-Falcon GPS is a fleet management and vehicle tracking service designed specifically for the Colombian market. We solve the common problems of fleet owners, transporters, and taxi drivers, such as theft, inefficient management, and lack of driver control.
+Falcon GPS es una plataforma de **gestión de flotas** diseñada para empresas colombianas de transporte, logística, taxis y mensajería. Resolvemos problemas clave como los altos costos por robo de vehículos, el mal uso de la flota, el consumo excesivo de combustible y la falta de seguimiento.
 
-## 🌟 Our Innovative Solution
+## 🌟 Nuestra Solución Innovadora
 
-Our core innovation is integrating powerful GPS technology with the simplicity of **WhatsApp**. Instead of using complex apps, our users can control their vehicles and access key information with a simple chat.
+Nuestra innovación principal es integrar la potente tecnología GPS con la simplicidad de **WhatsApp**. En lugar de forzar a administradores y conductores a usar software complejo, nuestra plataforma permite la interacción a través de un simple chat.
 
-## ✨ Key Features
+## ✨ Características Clave para Empresas
 
-* **Real-time Tracking**: Always know the exact location of your vehicles.
-* **Remote Engine Cut-off**: In case of theft, you can remotely turn off your vehicle's engine from anywhere.
-* **Geofences and Alerts**: Set virtual boundaries and receive instant notifications when a vehicle enters or leaves a specific area.
-* **Detailed Reports**: Generate reports on vehicle activity, mileage, and driver performance.
-* **WhatsApp AI Assistant**: Our intelligent chatbot allows you to interact with the platform using natural language. Just send a message to:
-    * Find a vehicle's location.
-    * Remotely cut off the engine.
-    * Request reports.
-    * Receive instant alerts.
+* **Rastreo en Tiempo Real**: Supervise la ubicación exacta de cada vehículo de su flota.
+* **Apagado Remoto del Vehículo**: Desactive el motor del vehículo a distancia en caso de robo o emergencia.
+* **Geocercas y Alertas**: Cree perímetros virtuales para recibir notificaciones cuando un vehículo entra o sale de una zona específica.
+* **Reportes Detallados**: Genere informes de conducción, consumo de combustible y rendimiento de la flota para optimizar operaciones.
+* **Asistente IA por WhatsApp**: Nuestra IA permite a su equipo interactuar de forma natural con la plataforma. Solo con un mensaje pueden:
+    * Consultar la ubicación de un vehículo.
+    * Recibir alertas de seguridad.
+    * Generar reportes de la flota.
 
-## 🚀 Why We Are Different
+## 🚀 Nuestra Ventaja Competitiva
 
-While other companies offer rigid and complex systems, Falcon GPS provides an accessible and flexible solution that adapts to the local market. Our competitive advantage is our direct integration with **WhatsApp**, which eliminates the friction of learning a new app and makes our solution intuitive for everyone in the industry.
+A diferencia de otras plataformas rígidas, Falcon GPS está construida para una **adopción real**.
 
-## API Client
-The traccar_api.py file contains the TraccarAPI class, which is a Python client for interacting with the Traccar API. This class centralizes all the API logic, making it easy to fetch device data, manage positions, and send commands.
+* **Acceso por WhatsApp**: Reduce la curva de aprendizaje y elimina la resistencia de los conductores.
+* **Soporte Humano + IA**: Ofrecemos atención inmediata y personalizada para administradores de flotas.
+* **Planes Flexibles**: Nuestros modelos se adaptan al tamaño de su flota y necesidades de negocio.
 
-## 🤝 Get Started
+## 🤝 Comience a Optimizar su Flota
 
-Ready to take control of your fleet and have peace of mind? Start a conversation with our intelligent assistant on WhatsApp to get a demo and learn more about our plans.
+¿Listo para reducir riesgos, mejorar la eficiencia y generar ahorros significativos? Inicie una conversación con nuestro asistente inteligente en WhatsApp para recibir una demostración y conocer nuestros planes.
 
-[**Chat with Us on WhatsApp**](https://api.whatsapp.com/send/?phone=14155238886&text&type=phone_number&app_absent=0)
+[**Chatee con Nosotros en WhatsApp**](https://api.whatsapp.com/send/?phone=14155238886&text&type=phone_number&app_absent=0)
 
 ---
-You can also learn more about our platform on our website: [**Visit Falcon GPS**](https://v0-whats-app-car-loan-tracking-b2xykcnr8-davidsmvs-projects.vercel.app/)
+También puede obtener más información sobre nuestra plataforma en nuestro sitio web: [**Visitar Falcon GPS**](https://v0-whats-app-car-loan-tracking-b2xykcnr8-davidsmvs-projects.vercel.app/)
