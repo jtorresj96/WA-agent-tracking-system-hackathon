@@ -48,5 +48,15 @@ Inicie una conversación con nuestro asistente inteligente en WhatsApp para reci
 
 ---
 
+## 👥 Integrantes
+
+- **Johan David Lozano Leiva**  
+- **Juan David Torres Jiménez**  
+- **Julian F. Lancheros Macías**  
+- **David Santiago Martínez Vargas**  
+- **Edwin Oswaldo Torres Rincón**  
+
+---
+
 También puede obtener más información sobre nuestra plataforma en nuestro sitio web:  
 👉 [**Visitar Falcon GPS**](https://v0-whats-app-car-loan-tracking.vercel.app)
