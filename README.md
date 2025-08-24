@@ -33,7 +33,12 @@ A diferencia de otras plataformas rígidas, Falcon GPS está construida para una
 La aplicación se encuentra desplegada en un ambiente productivo.  
 
 - La placa disponible para probar la función de apagado del vehículo es: **RBN068**.  
-- Las placas disponibles para probar otras funciones (hora de salida, ubicación, distancia recorrida, entre otras) son: **FUY785** y **RBN068**.  
+- Las placas disponibles para probar otras funciones (hora de salida, ubicación, distancia recorrida, entre otras) son: **FUY785**, **FUZ595**, **LSY823**, **Smz461**, **ESM759**, **FUY782**, **LSX907**, **Nwv613**, **NWV614** y **RBN068**.
+
+Ten en cuenta que la única placa con la que se puede apagar el vehículo es **RBN068**.
+
+---
+
 - También es posible solicitar reportes generales, como:  
   - Vehículos que superaron el límite de velocidad.  
   - Vehículos que permanecieron inactivos.  
